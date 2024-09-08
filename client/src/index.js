@@ -17,13 +17,14 @@ import DashBoard from './pages/Dashboard.jsx'
 import EditPost from './pages/EditPost.jsx'
 import DeletePost from './pages/DeletePost.jsx'
 import Logout from './pages/Logout'
+import UserProvider from './context/userContext';
 
 
 
 const router = createBrowserRouter ([
   {
     path: "/",
-    element: <Layout/>,
+    element: <UserProvider><Layout /></UserProvider>,
     errorElement: <ErrorPage />,
     children: [
       {index: true, element: <Home />},
