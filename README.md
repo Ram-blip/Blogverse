@@ -30,3 +30,20 @@
 ## 🚀 Live Demo
 [Click here for the live demo](#)  
 *(Add a link if you’ve deployed it)*
+
+## 🧑‍💻 Usage
+
+1. **Create a new account**: Register as a new user to create your profile.
+2. **Create Posts**: After logging in, you can create, edit, or delete your blog posts.
+3. **Browse Posts**: Explore blog posts by categories or by authors.
+4. **View and Edit Profile**: Customize your author profile, including uploading an avatar.
+
+## ⚖️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🛠️ Tools Used
+
+- **VS Code**: Code editor
+- **MongoDB Atlas**: Cloud database solution
+- **Postman**: API testing
