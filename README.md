@@ -41,6 +41,9 @@
 #### Sign Up
 <img width="1461" alt="Screenshot 2024-09-10 at 7 33 49 PM" src="https://github.com/user-attachments/assets/28da0cc7-a7e3-4012-a40f-d44f3311b9ff">
 
+##### Create a Post
+<img width="1467" alt="Screenshot 2024-09-10 at 7 57 40 PM" src="https://github.com/user-attachments/assets/5689dd66-1f37-43e1-98fa-a9aebe92423c">
+
 ## 🧑‍💻 Usage
 
 1. **Create a new account**: Register as a new user to create your profile.
