@@ -1,6 +1,6 @@
 # Blogverse
 
-![Blogverse](path-to-your-screenshot.png)  
+![Blogverse](https://imgur.com/a/2KC29Vv)  
 *(Replace this with a relevant screenshot of your project)*
 
 ## 📖 Overview
