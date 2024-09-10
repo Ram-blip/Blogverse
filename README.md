@@ -1,6 +1,6 @@
 # Blogverse
 
-![Blogverse]<img width="1467" alt="Screenshot 2024-09-10 at 7 33 07 PM" src="https://github.com/user-attachments/assets/8bbd2c8b-edf0-410c-a93f-05add2e1b73d">
+<img width="1467" alt="Screenshot 2024-09-10 at 7 33 07 PM" src="https://github.com/user-attachments/assets/8bbd2c8b-edf0-410c-a93f-05add2e1b73d">
 *(Replace this with a relevant screenshot of your project)*
 
 ## 📖 Overview
