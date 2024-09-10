@@ -30,6 +30,14 @@
 [Click here for the live demo](#)  
 *(Link Will be updated Soon)*
 
+## 🎨 Screenshots
+
+### Homepage
+<img width="738" alt="Screenshot 2024-09-10 at 7 33 26 PM" src="https://github.com/user-attachments/assets/2a687891-fcb5-498d-b726-c8a93410c272">
+
+### Dashboard
+![Dashboard](path-to-your-dashboard-screenshot.png)
+
 ## 🧑‍💻 Usage
 
 1. **Create a new account**: Register as a new user to create your profile.
