@@ -32,11 +32,14 @@
 
 ## 🎨 Screenshots
 
-### Homepage
+### Authors List
 <img width="738" alt="Screenshot 2024-09-10 at 7 33 26 PM" src="https://github.com/user-attachments/assets/2a687891-fcb5-498d-b726-c8a93410c272">
 
-### Dashboard
-![Dashboard](path-to-your-dashboard-screenshot.png)
+### Login
+<img width="1463" alt="Screenshot 2024-09-10 at 7 33 35 PM" src="https://github.com/user-attachments/assets/133b422b-514b-4eb1-8071-500710327d30">
+
+#### Sign Up
+<img width="1461" alt="Screenshot 2024-09-10 at 7 33 49 PM" src="https://github.com/user-attachments/assets/28da0cc7-a7e3-4012-a40f-d44f3311b9ff">
 
 ## 🧑‍💻 Usage
 
